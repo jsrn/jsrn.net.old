@@ -1,0 +1,28 @@
+.parent {
+	width: 100%;
+}
+
+header {
+	margin-top: 20px;
+}
+
+header h1 {
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+}
+
+header img {
+	height: 40px;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+header .secondary {
+	color: lightgrey;
+}
+
+body {
+	font-size: 16pt;
+	color: #333;
+}
