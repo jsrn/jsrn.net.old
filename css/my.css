@@ -31,6 +31,12 @@ body {
 	color: #333;
 }
 
+.starmilk {
+	position: fixed;
+	bottom: -50px;
+	opacity: .5;
+}
+
 @media (max-width: 600px) {
 	.gutter {
 		display: none;
@@ -41,5 +47,9 @@ body {
 		margin: 0 10px;
 		flex: none;
 		max-width: 100%;
+	}
+
+	.starmilk {
+		opacity: .1;
 	}
 }
