@@ -78,6 +78,10 @@ body {
 		display: grid;
 		grid-template-columns: 1fr;
 	}
+	
+	.zine-container img {
+		width: 100%;
+	}
 }
 
 img {
